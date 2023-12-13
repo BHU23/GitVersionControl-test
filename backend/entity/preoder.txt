@@ -1,0 +1,5 @@
+package entity
+
+type Preoder {
+    Recive time.Time
+}

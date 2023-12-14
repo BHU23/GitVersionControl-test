@@ -1,0 +1,8 @@
+package entity
+
+type Preoder {
+    Name String
+    Password time.Time
+    Email String
+    Avater String
+}
